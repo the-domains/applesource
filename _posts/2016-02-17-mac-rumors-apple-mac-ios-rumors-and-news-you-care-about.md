@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.macrumors.com/'
 title: 'Mac Rumors: Apple Mac iOS Rumors and News You Care About'
-datePublished: '2016-02-17T10:34:34.321Z'
-dateModified: '2016-02-17T10:34:04.131Z'
+datePublished: '2016-02-17T10:34:57.787Z'
+dateModified: '2016-02-17T10:33:59.780Z'
 sourcePath: _posts/2016-02-17-mac-rumors-apple-mac-ios-rumors-and-news-you-care-about.md
 published: true
 inFeed: true
