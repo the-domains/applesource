@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.7562724
+  saturation: 0.4103943
   brandStrength: 0.6875
-  lightness: 0.7580645
+  lightness: 0.2939068
   brandColors:
     - '#ffffff'
     - '#ff440d'
     - '#257701'
     - '#fe9811'
     - '#0d8bff'
-  rhythmicContrast: 0.7473118
+  rhythmicContrast: 0.7401434
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Applesource
 favicon: null
+name: Applesource
 opengraph:
   image: null
   type: null
