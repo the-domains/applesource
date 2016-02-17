@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></title>
+        <description><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 10:54:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ting ]]></title>
+            <description><![CDATA[<article><h1>Ting </h1><p>Ting</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33ec2e90e8b14db69811b70d54ea076dd4e2251a.png"></article>]]></description>
+            <link>undefinedting/index.html</link>
+            <guid isPermaLink="false">c1255de5-6cd2-4368-a497-0cae0abc6b9b</guid>
+            <pubDate>Wed, 17 Feb 2016 10:53:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
