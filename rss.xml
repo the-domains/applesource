@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></title>
         <description><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/applesource/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 10:34:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 10:35:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/applesource/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mac Rumors: Apple Mac iOS Rumors and News You Care About]]></title>
+            <description><![CDATA[<article><h1>Mac Rumors: Apple Mac iOS Rumors and News You Care About</h1><p>Apple, Mac, iOS News and Rumors</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6199a5f43101837d0027cab892062a411736755.png"></article>]]></description>
+            <link>http://www.macrumors.com/</link>
+            <guid isPermaLink="false">a2837af2-21d5-438d-b937-62bb723cca24</guid>
+            <pubDate>Wed, 17 Feb 2016 10:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mac Rumors: Apple Mac iOS Rumors and News You Care About]]></title>
             <description><![CDATA[<article><h1>Mac Rumors: Apple Mac iOS Rumors and News You Care About</h1><p>Apple, Mac, iOS News and Rumors</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6199a5f43101837d0027cab892062a411736755.png"></article>]]></description>
