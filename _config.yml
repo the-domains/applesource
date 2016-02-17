@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.375
+  saturation: 0.5017921
   brandStrength: 0.6875
   lightness: 0.6756272
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#257701'
     - '#fe9811'
     - '#0d8bff'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5286738
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Applesource
 favicon: null
+name: Applesource
 opengraph:
   image: null
   type: null
