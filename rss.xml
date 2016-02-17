@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></title>
+        <description><![CDATA[Applesource - the only source for Apple news, rumours and reviews you will ever need]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 10:34:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mac Rumors: Apple Mac iOS Rumors and News You Care About]]></title>
+            <description><![CDATA[<article><h1>Mac Rumors: Apple Mac iOS Rumors and News You Care About</h1><p>Apple, Mac, iOS News and Rumors</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6199a5f43101837d0027cab892062a411736755.png"></article>]]></description>
+            <link>http://www.macrumors.com/</link>
+            <guid isPermaLink="false">0cead86e-a23d-41a5-8c3b-8f19328a88bf</guid>
+            <pubDate>Wed, 17 Feb 2016 10:34:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
