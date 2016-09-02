@@ -1,4 +1,6 @@
-title: 'Applesource - the only source for Apple news, rumours and reviews you will ever need'
+title: >-
+  Applesource - the only source for Apple news, rumours and reviews you will
+  ever need
 purpose: []
 collections:
   - index:
@@ -6,23 +8,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.6875
+  saturation: 0.3781362
   brandStrength: 0.125
-  lightness: 0.1875
+  lightness: 0.4498208
   brandColors:
     - '#FFFFFF'
     - '#717E86'
     - '#171715'
     - '#2E3639'
     - '#B3B3B4'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.59319
 cta:
   bucket: null
   version: null
@@ -38,4 +40,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.4306
-layout_spectrum: 0.49821
+layout_spectrum: 0.4982079
